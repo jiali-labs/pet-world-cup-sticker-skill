@@ -1,0 +1,6 @@
+# Local review artifacts
+review-bundles/
+tests/
+
+# macOS
+.DS_Store
